@@ -4,7 +4,8 @@
 
 ## 📌 Overview
 
-This is a **Brain Tumor Detection Web Application** that uses **Deep Learning** to analyze MRI scans and detect the presence of brain tumors.
+This is a **Brain Tumor Detection Web Application** that uses **Deep Learning** to analyze MRI scans and detect the presence of brain tumors.Brain tumors are abnormal growths of cells in the brain that can be life-threatening if not detected early. Traditional diagnosis often requires MRI scans interpreted by skilled radiologists — a process that can be time-consuming and subject to human error.This project provides a web-based AI-powered solution to assist in early detection.
+It uses a Convolutional Neural Network (CNN) trained on labeled MRI images to classify scans as “Tumor Detected” or “No Tumor” with high accuracy.
 The project integrates:
 
 * **TensorFlow/Keras** → For building and training the CNN model
